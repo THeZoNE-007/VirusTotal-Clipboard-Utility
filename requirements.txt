@@ -1,0 +1,8 @@
+keyboard
+pyperclip
+requests
+pystray
+plyer
+validators
+Pillow
+python-dotenv
